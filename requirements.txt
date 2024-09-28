@@ -15,4 +15,3 @@ typing_extensions>=3.7
 wrapt>=1.11.2
 scikit-image>=0.17.2
 optax>=0.0.9
-chex==0.0.8
