@@ -14,6 +14,5 @@ tensorflow-probability>=0.12.1
 typing_extensions>=3.7
 wrapt>=1.11.2
 scikit-image>=0.17.2
-git+https://github.com/deepmind/dm_pix@6465d23f01ccff1148da183cf1f46cc0ab69a4cb#egg=dm_pix
 optax>=0.0.9
 chex==0.0.8
